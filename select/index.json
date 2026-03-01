@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "good 4 u (Official Video)",
+  "base_artist": "Olivia Rodrigo",
+  "createdAt": "2026-03-01T04:40:51.469957Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "GOOD TIME",
+      "artist": "Niko Moon",
+      "has_synced": true,
+      "path": "select/01_GOOD_TIME_Niko_Moon.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Good Beer",
+      "artist": "Seaforth feat. Jordan Davis",
+      "has_synced": true,
+      "path": "select/02_Good_Beer_Seaforth_feat._Jordan_Davis.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Good Beer",
+      "artist": "Seaforth",
+      "has_synced": true,
+      "path": "select/03_Good_Beer_Seaforth.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Good Life",
+      "artist": "Kip Moore",
+      "has_synced": true,
+      "path": "select/04_Good_Life_Kip_Moore.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Good as You",
+      "artist": "Kane Brown",
+      "has_synced": true,
+      "path": "select/05_Good_as_You_Kane_Brown.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Good as You",
+      "artist": "Kane Brown",
+      "has_synced": true,
+      "path": "select/06_Good_as_You_Kane_Brown.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Country'd Look Good On You",
+      "artist": "Frank Ray",
+      "has_synced": true,
+      "path": "select/07_Country'd_Look_Good_On_You_Frank_Ray.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Good Friends",
+      "artist": "Maren Morris",
+      "has_synced": true,
+      "path": "select/08_Good_Friends_Maren_Morris.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Good Ol' Man",
+      "artist": "Drew Green",
+      "has_synced": true,
+      "path": "select/09_Good_Ol'_Man_Drew_Green.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Good Ol' Man",
+      "artist": "Drew Green",
+      "has_synced": true,
+      "path": "select/10_Good_Ol'_Man_Drew_Green.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Good Things",
+      "artist": "Dan + Shay",
+      "has_synced": true,
+      "path": "select/11_Good_Things_Dan_+_Shay.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Good With Goodbye",
+      "artist": "John Morgan",
+      "has_synced": true,
+      "path": "select/12_Good_With_Goodbye_John_Morgan.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Good as Hell (feat. Ariana Grande) [Remix]",
+      "artist": "Lizzo",
+      "has_synced": true,
+      "path": "select/13_Good_as_Hell_(feat._Ariana_Grande)_[Remix]_Lizzo.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "I'm Good (Blue)",
+      "artist": "David Guetta",
+      "has_synced": false,
+      "path": "select/14_I'm_Good_(Blue)_David_Guetta.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Rain Is A Good Thing",
+      "artist": "Luke Bryan",
+      "has_synced": true,
+      "path": "select/15_Rain_Is_A_Good_Thing_Luke_Bryan.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Somehow You Do (From The Motion Picture Four Good Days)",
+      "artist": "Reba McEntire",
+      "has_synced": true,
+      "path": "select/16_Somehow_You_Do_(From_The_Motion_Picture_Four_Good_Days)_Reba_McEntire.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "The Good Ones",
+      "artist": "Gabby Barrett",
+      "has_synced": true,
+      "path": "select/17_The_Good_Ones_Gabby_Barrett.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "good 4 u",
+      "artist": "Olivia Rodrigo",
+      "has_synced": false,
+      "path": "select/pl_01_good_4_u_Olivia_Rodrigo.txt"
+    }
+  ]
+}
